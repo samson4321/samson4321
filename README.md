@@ -1,103 +1,78 @@
-# Hi, I'm Samson 👋
-
-### 🧠 Biomedical Engineer | ML & Signal Processing | Embedded Systems  
-*Building real, reliable systems grounded in strong fundamentals*
-
----
-
+<!-- Banner -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samson4321&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://images.unsplash.com/photo-1581092334504-1c7c3c1c64a6?auto=format&fit=crop&w=1600&q=80" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fundamentals-first+engineer;Biomedical+ML+%26+Signal+Processing;Embedded+Systems+%26+IoT;Practical+solutions+that+work&center=true&width=650&height=45">
-</p>
+<h1 align="center">Hi, I'm Samson 👋</h1>
+<h3 align="center">Biomedical / Medical Engineer | Signal & Image Processing | ML & IoT</h3>
 
 ---
 
-## 🚀 What I Build
-- **Biomedical signal & image processing systems** — ECG, biosignals, feature extraction, analysis
-- **Machine learning & deep learning models** — classification, evaluation, optimization
-- **Embedded & IoT systems** — Arduino & Raspberry Pi–based solutions
-- **Medical device troubleshooting & maintenance** — practical, hardware-focused problem solving
-- **Network analysis & cybersecurity fundamentals** — ethical traffic inspection and protocol analysis
+## 🧬 About Me
+
+- 🎓 Medical / Biomedical Engineer  
+- 🧠 Strong background in **Signal Processing & Image Processing**
+- ❤️ Working with **ECG, biomedical signals, and medical imaging**
+- 🤖 Interested in **Machine Learning & Deep Learning** for healthcare
+- 🌐 Build **IoT-based biomedical data acquisition systems**
+- 🔬 Curious about **medical machines, their working principles & functionality**
 
 ---
 
-## 🧠 Engineering Philosophy
-I believe in understanding **fundamentals deeply** — mathematics, signals, systems, and protocols —  
-but I am ultimately driven by **building practical solutions that work in real environments**,  
-especially in **biomedical and engineering contexts** where reliability matters.
+## 🛠️ Technology Stack
+
+### Programming & Tools
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![MATLAB](https://img.shields.io/badge/MATLAB-black?style=for-the-badge&logo=mathworks)
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
+![Embedded](https://img.shields.io/badge/Embedded%20Systems-black?style=for-the-badge&logo=arduino)
+
+### Biomedical & AI
+![Signal Processing](https://img.shields.io/badge/Signal%20Processing-darkgreen?style=for-the-badge)
+![Image Processing](https://img.shields.io/badge/Image%20Processing-darkblue?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-maroon?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge)
+![IoT](https://img.shields.io/badge/IoT-gray?style=for-the-badge)
 
 ---
 
-## 🛠️ Tech Stack
+## 🫀 Biomedical Focus Areas
 
-### 🔹 Programming & Data
-- Python
-- NumPy, Pandas
-- Scikit-learn
-- Basic Deep Learning (model pipelines & evaluation)
-
-### 🔹 Signal & Image Processing
-- Biomedical signal analysis
-- Feature extraction
-- Visualization & interpretation
-
-### 🔹 Embedded & IoT
-- Arduino
-- Raspberry Pi
-- Sensors & hardware interfacing
-- Embedded troubleshooting
-
-### 🔹 Networking & Security (Ethical / Educational)
-- Wireshark
-- TCP/IP, DNS analysis
-- Network traffic inspection (lab-based)
-
-### 🔹 Web & Tools
-- HTML, CSS
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
-
----
-
-
-## 🎯 Currently Working On
-- Strengthening biomedical ML foundations
-- End-to-end signal processing pipelines
-- Embedded systems for biomedical monitoring
-- Sharing engineering knowledge through structured projects
-
----
-
-## 🌍 Location
-📍 Germany
-
----
-
-## 🤝 Let’s Connect
-- GitHub: https://github.com/samson4321  
-- LinkedIn: *https://www.linkedin.com/in/samson-klenam-agbadi-888357385/*  
-- Email: *klenamagbadi@gmail.com*
+- ECG signal acquisition & analysis  
+- Biomedical signal filtering & feature extraction  
+- Medical image enhancement & segmentation  
+- ML/DL models for healthcare data  
+- IoT-based patient monitoring systems  
+- Understanding medical devices & diagnostics machines  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samson4321&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samson4321&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samson4321" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samson4321&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samson4321&row=1&column=6" />
+  <img src="https://streak-stats.demolab.com?user=samson4321&theme=radical" />
 </p>
 
 ---
 
-⭐ *Building systems that are correct in theory, reliable in practice, and meaningful in impact.*
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samson4321&color=blueviolet" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+- 💬 Open to collaboration in **Biomedical AI & Signal Processing**
+- 🌱 Always learning & exploring medical technologies
+
+⭐ If you like my work, feel free to star my repositories!
