@@ -33,7 +33,7 @@
     />
   </a>
 
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:klenamagbadi@gmail.com"
     <img
       src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"
       alt="Email"
