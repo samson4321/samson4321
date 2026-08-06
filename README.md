@@ -1,23 +1,65 @@
-<!-- Banner -->
+<!-- ========================= BANNER ========================= -->
+
 <p align="center">
-  <img src="./banner.png" alt="banner" />
+  <img
+    src="./banner.png"
+    alt="Samson — Biomedical and Medical Engineer"
+    width="100%"
+  />
 </p>
 
+<!-- ========================= INTRODUCTION ========================= -->
+
 <h1 align="center">Hi, I'm Samson 👋</h1>
+
 <h3 align="center">
-Biomedical / Medical Engineer | Signal & Image Processing | ML & IoT
+  Biomedical / Medical Engineer | Medical AI | Signal & Image Processing
 </h3>
+
+<p align="center">
+  <strong>
+    Radiology • Oncology • Treatment Planning • Computer Vision • Machine Learning • IoT
+  </strong>
+</p>
+
+<p align="center">
+  I combine biomedical engineering, artificial intelligence, medical imaging,
+  signal processing, and software development to build practical solutions
+  for healthcare and medical technology.
+</p>
+
+<p align="center">
+  🩺 Biomedical Engineering &nbsp;•&nbsp;
+  🧠 Medical AI &nbsp;•&nbsp;
+  📈 Biomedical Signal Processing &nbsp;•&nbsp;
+  🖼️ Medical Image Processing
+</p>
+
+<p align="center">
+  ☢️ Radiology &nbsp;•&nbsp;
+  🎗️ Oncology &nbsp;•&nbsp;
+  🎯 Treatment Planning &nbsp;•&nbsp;
+  🔬 Healthcare Technology
+</p>
+
+<p align="center">
+  🌐 Full-Stack Development &nbsp;•&nbsp;
+  🔌 Embedded Systems & IoT &nbsp;•&nbsp;
+  🤖 Machine Learning & Deep Learning
+</p>
 
 ---
 
-## 🧬 About Me
+## 👨‍💻 About Me
 
-- 🎓 Medical / Biomedical Engineer  
-- 🧠 Signal Processing & Image Processing  
-- ❤️ ECG & biomedical signal analysis  
-- 🤖 Machine Learning & Deep Learning for healthcare  
-- 🌐 IoT-based biomedical data acquisition  
-- 🔬 Curious about medical machines & diagnostics  
+- 🩺 Biomedical / Medical Engineer with interests in healthcare technology
+- 📈 Interested in biomedical signal processing and physiological data analysis
+- 🖼️ Working with medical image processing, computer vision, and medical imaging tools
+- 🧠 Exploring machine learning and deep learning for medical applications
+- ☢️ Interested in radiology, oncology, and radiation treatment planning
+- 🔌 Experienced with Arduino, Raspberry Pi 4, and IoT-based healthcare systems
+- 🌐 Building web applications with Django, React, JavaScript, HTML, and CSS
+- 🚀 Passionate about designing intelligent engineering solutions for better healthcare
 
 ---
 
