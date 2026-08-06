@@ -28,37 +28,25 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-Samson_Klenam_Agbadi-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+      alt="LinkedIn profile"
     />
   </a>
 
-  <a href="mailto:klenamagbadi@gmail.com"
+  <a href="mailto:klenamagbadi@gmail.com">
     <img
-      src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"
-      alt="Email"
+      src="https://img.shields.io/badge/Email-klenamagbadi%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"
+      alt="Email Samson"
     />
   </a>
 
   <a href="https://github.com/samson4321">
     <img
       src="https://img.shields.io/badge/GitHub-samson4321-181717?style=flat-square&logo=github&logoColor=white"
-      alt="GitHub"
+      alt="GitHub profile"
     />
   </a>
-
-  <!-- Delete this portfolio button until you have a portfolio website -->
-  <!--
-  <a href="https://YOUR-PORTFOLIO-WEBSITE.com">
-    <img
-      src="https://img.shields.io/badge/Portfolio-Website-0F766E?style=flat-square&logo=googlechrome&logoColor=white"
-      alt="Portfolio"
-    />
-  </a>
-  -->
 </p>
-
----
 
 ## 👨‍💻 About Me
 
