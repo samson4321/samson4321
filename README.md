@@ -1,8 +1,7 @@
 <!-- ========================= BANNER ========================= -->
-
 <p align="center">
   <img
-    src="./banner.png"
+    src="https://raw.githubusercontent.com/samson4321/samson4321/main/banner.png"
     alt="Samson — Biomedical and Medical Engineer"
     width="100%"
   />
