@@ -61,7 +61,7 @@ Biomedical / Medical Engineer | Signal & Image Processing | ML & IoT
 
 ### 🔌 Embedded Systems & IoT
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-607D8B?style=for-the-badge)
 
 ---
