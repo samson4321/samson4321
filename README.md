@@ -108,7 +108,9 @@ Biomedical / Medical Engineer | Signal & Image Processing | ML & IoT
 
 ## 🤝 Let's Connect
 
-- 💬 Open to collaboration in **Biomedical AI & Signal Processing**
-- 🌱 Always learning & exploring medical technologies  
+- 🤝 Open to collaborating on **Biomedical Engineering**, **Medical AI**, **Medical Image Processing**, **Biomedical Signal Processing**, and **Healthcare Technologies**
+- 🧠 Passionate about applying **Artificial Intelligence** to solve real-world healthcare challenges
+- 🌱 Continuously learning **Computer Vision**, **Deep Learning**, and **Medical Imaging**
+- 🚀 Interested in research and open-source projects in **Biomedical Engineering**, **AI**, and **IoT for Healthcare**
 
-⭐ If you like my work, feel free to star my repositories!
+⭐ If you find my projects useful, feel free to ⭐ star my repositories!
