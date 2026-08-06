@@ -26,7 +26,7 @@
 <!-- ========================= CONTACT LINKS ========================= -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="https://www.linkedin.com/in/Samson Klenam Agbadi">
     <img
       src="https://img.shields.io/badge/LinkedIn-Samson_Klenam_Agbadi-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
       alt="LinkedIn profile"
