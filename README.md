@@ -1,8 +1,8 @@
-<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/0a904e38-8caa-4d60-a73b-ef79b29be31d" />
 <!-- ========================= BANNER ========================= -->
+
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/samson4321/samson4321/main/banner.png"
+    src="https://github.com/user-attachments/assets/0a904e38-8caa-4d60-a73b-ef79b29be31d"
     alt="Samson — Biomedical and Medical Engineer"
     width="100%"
   />
@@ -13,55 +13,73 @@
 <h1 align="center">Hi, I'm Samson 👋</h1>
 
 <h3 align="center">
-  Biomedical / Medical Engineer | Medical AI | Signal & Image Processing
+  Biomedical Engineer | Medical Imaging | Biomedical Signal Processing | Medical AI
 </h3>
 
 <p align="center">
-  <strong>
-    Radiology • Oncology • Treatment Planning • Computer Vision • Machine Learning • IoT
-  </strong>
+  I am a Biomedical Engineer with interests in medical imaging, biomedical signal
+  processing, machine learning, and healthcare software development. I enjoy applying
+  engineering and computational methods to practical problems in diagnosis, patient
+  monitoring, radiology, oncology, and treatment planning.
 </p>
 
-<p align="center">
-  I combine biomedical engineering, artificial intelligence, medical imaging,
-  signal processing, and software development to build practical solutions
-  for healthcare and medical technology.
-</p>
+<!-- ========================= CONTACT LINKS ========================= -->
 
 <p align="center">
-  🩺 Biomedical Engineering &nbsp;•&nbsp;
-  🧠 Medical AI &nbsp;•&nbsp;
-  📈 Biomedical Signal Processing &nbsp;•&nbsp;
-  🖼️ Medical Image Processing
-</p>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 
-<p align="center">
-  ☢️ Radiology &nbsp;•&nbsp;
-  🎗️ Oncology &nbsp;•&nbsp;
-  🎯 Treatment Planning &nbsp;•&nbsp;
-  🔬 Healthcare Technology
-</p>
+  <a href="mailto:YOUR-EMAIL@example.com">
+    <img
+      src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
 
-<p align="center">
-  🌐 Full-Stack Development &nbsp;•&nbsp;
-  🔌 Embedded Systems & IoT &nbsp;•&nbsp;
-  🤖 Machine Learning & Deep Learning
+  <a href="https://github.com/samson4321">
+    <img
+      src="https://img.shields.io/badge/GitHub-samson4321-181717?style=flat-square&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+  <!-- Delete this portfolio button until you have a portfolio website -->
+  <!--
+  <a href="https://YOUR-PORTFOLIO-WEBSITE.com">
+    <img
+      src="https://img.shields.io/badge/Portfolio-Website-0F766E?style=flat-square&logo=googlechrome&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+  -->
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🩺 Biomedical / Medical Engineer with interests in healthcare technology
-- 📈 Interested in biomedical signal processing and physiological data analysis
-- 🖼️ Working with medical image processing, computer vision, and medical imaging tools
-- 🧠 Exploring machine learning and deep learning for medical applications
-- ☢️ Interested in radiology, oncology, and radiation treatment planning
-- 🔌 Experienced with Arduino, Raspberry Pi 4, and IoT-based healthcare systems
-- 🌐 Building web applications with Django, React, JavaScript, HTML, and CSS
-- 🚀 Passionate about designing intelligent engineering solutions for better healthcare
+- Biomedical Engineer interested in medical technology and computational healthcare
+- Working with biomedical signal processing, medical image processing, and computer vision
+- Exploring machine learning and deep learning for medical and healthcare applications
+- Interested in radiology, radiation oncology, and radiotherapy treatment planning
+- Developing web applications using Django, React, JavaScript, HTML, and CSS
+- Experienced with Arduino, Raspberry Pi 4, and IoT-based monitoring systems
 
 ---
+
+## 🔬 Professional Interests
+
+- Medical Imaging and Image Analysis
+- Biomedical Signal Processing
+- Medical Artificial Intelligence
+- Radiology and Diagnostic Imaging
+- Radiation Oncology and Treatment Planning
+- Physiological Monitoring and Medical Devices
+- Digital Health and Healthcare Software
 
 ## 🛠️ Technology Stack
 
